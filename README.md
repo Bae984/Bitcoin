@@ -1,4 +1,6 @@
-[![Build Status](https://dev.azure.com/t-bezhou/DevOpsDemo/_apis/build/status/Bae984.Bitcoin%20(1)?branchName=master)](https://dev.azure.com/t-bezhou/DevOpsDemo/_build/latest?definitionId=3&branchName=master)
+
+build status:[![Build Status](https://dev.azure.com/t-bezhou/DevOpsDemo/_apis/build/status/Bae984.Bitcoin%20(1)?branchName=master)](https://dev.azure.com/t-bezhou/DevOpsDemo/_build/latest?definitionId=3&branchName=master)
+
 # Bitcoin
 An example Bitcoin implementation which can be used to learn about Bitcoin/Blockchain. This implementations is for educational use only.
 
